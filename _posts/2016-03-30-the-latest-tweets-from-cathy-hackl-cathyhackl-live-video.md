@@ -45,8 +45,8 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/CathyHackl'
-datePublished: '2016-03-30T22:37:50.200Z'
-dateModified: '2016-03-30T22:33:46.799Z'
+datePublished: '2016-03-30T22:37:50.231Z'
+dateModified: '2016-03-30T22:34:14.498Z'
 title: ''
 sourcePath: _posts/2016-03-30-the-latest-tweets-from-cathy-hackl-cathyhackl-live-video.md
 published: true
