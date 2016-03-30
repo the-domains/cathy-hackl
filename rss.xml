@@ -4,10 +4,18 @@
         <description><![CDATA[Cathy Hackl]]></description>
         <link>http://cathyhackl.live/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 23:06:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2016 23:07:45 GMT</lastBuildDate>
         <atom:link href="http://cathyhackl.live/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[¿Qué aplicación elegir a la hora de transmitir video vía streaming?]]></title>
+            <description><![CDATA[<article><h1>¿Qué aplicación elegir a la hora de transmitir video vía streaming?</h1><p>In the Media: NTN24 Interview in Spanish. </p></article>]]></description>
+            <link>http://cathyhackl.live/que-aplicacion-elegir-a-la-hora-de-transmitir-video-via-str/index.html</link>
+            <guid isPermaLink="false">813fb650-b60a-4671-a559-b43550fd7a64</guid>
+            <pubDate>Wed, 30 Mar 2016 23:07:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>In The Media: Huffington Post Live Interview (Sep. 2015) </p>]]></description>
             <link>http://cathyhackl.live/a0e9bec3-5258-4f77-b0ff-e7f77f192204/index.html</link>
             <guid isPermaLink="false">a0e9bec3-5258-4f77-b0ff-e7f77f192204</guid>
             <pubDate>Wed, 30 Mar 2016 23:06:30 GMT</pubDate>
@@ -67,13 +75,6 @@
             <link>http://cathyhackl.live/7d8202f3-55c9-4e5a-aeb5-088408a68336/index.html</link>
             <guid isPermaLink="false">7d8202f3-55c9-4e5a-aeb5-088408a68336</guid>
             <pubDate>Wed, 30 Mar 2016 22:29:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/44d5ab45-0ad5-4ceb-bdfb-9d74daad83ac.jpg">]]></description>
-            <link>http://cathyhackl.live/100090db-70a3-4ad0-abe0-735de07af18a/index.html</link>
-            <guid isPermaLink="false">100090db-70a3-4ad0-abe0-735de07af18a</guid>
-            <pubDate>Wed, 30 Mar 2016 22:26:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
